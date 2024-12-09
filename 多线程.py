@@ -56,9 +56,7 @@ def download_all_skins():
 import time
 # 记录开始时间
 start_time = time.time()
-
 download_all_skins()
-
 # 记录结束时间
 end_time = time.time()
 # 计算并打印总耗时
